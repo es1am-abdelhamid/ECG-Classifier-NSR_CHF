@@ -1,4 +1,6 @@
 # 🫀 ECG Signal Classification (NSR vs CHF)
+**Author:** Eslam Abdelhamid OR Eslam A.Abd El-Razek  
+**Author Contact:** eslamelshick@gmail.com 
 
 [![Python](https://img.shields.io/badge/Python-3.13%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange.svg)](https://www.tensorflow.org/)
@@ -50,5 +52,7 @@ The project includes several key visual insights and files as shown in the proje
 * [cite_start]**Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow/keras`[cite: 22, 24, 26, 28].
 
 ## 👨‍💻 Author
-**Eslam Abdelhamid**
-*Mechatronics Engineering Student | AI Researcher*
+**Author:** Eslam Abdelhamid OR Eslam A.Abd El-Razek  
+**Author Contact:** eslamelshick@gmail.com 
+
+*Mechatronics Engineering Student | AI , ML ,& DL Researcher*
